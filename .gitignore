@@ -14,7 +14,9 @@ build/
 *.ipr
 out/
 !**/src/main/**/out/
-!**/src/test/**/out/
+!**/src/test/**/out/ # IntelliJ IDEA files
+    # IntelliJ IDEA files
+    .idea/
 
 ### Eclipse ###
 .apt_generated
